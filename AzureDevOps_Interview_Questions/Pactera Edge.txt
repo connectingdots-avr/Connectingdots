@@ -1,0 +1,22 @@
+PACTERA EDGE:
+
+1.What are your daily activities?
+2.What are recurring issues you have faced?
+3.What is the infrastructure on which the builds are runned in your organisation?
+4.Hosted & self hosted agents?
+5.What are the different DevOps tools you have used?
+6.What is the difference between Git and GitHub?
+7.What is the difference between TFS and GitHub?
+8.What is the difference between distributed and centralised
+9.Does your current environment use containerised docker images?
+10.Who would be writing the scripts?
+11.Do you have deployment slots and what do you mean by them?
+12.How do you configure release pipelines in general?
+13.Did you get any chance to configure the release failures?
+14.Why do you use powershell in pipelines?
+
+15.Why do we use Nugget tool?
+16.What will you do if anyone accidentally deletes the pipeline?(what permissions do you have?)
+17.Can we delete build & release pipelines?
+18.Why do you use Git?
+19.Why do you use Powershell in Azure DevOps?

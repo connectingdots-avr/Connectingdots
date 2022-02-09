@@ -1,0 +1,12 @@
+BOSCH:
+
+1.Difference between hosted and self hosted agents?
+2.What are dynamic and static agents?
+3.Are all softwares pre-installed in hosted agents?
+4.Why do you use ARM/Terraform in CI/CD process?
+5.What do you use for secret management and which is the safest option?
+6.Why do you use Load Balancer?
+7.Difference between app registration and enterprise application?
+8.What is Azure AD and AD Connect?
+9.What tools do you use in your project?
+10.Difference between git fetch and git pull?

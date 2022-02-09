@@ -1,0 +1,52 @@
+interview question
+-------------------------------------------------------------
+
+1.what is Availability set and zones
+2.Load balancers 
+3.what is Autoscaling
+4.Diff b/w load balancers and traffic manager
+5.Skus types
+6.azure Storage
+7.Replication types in azure 
+8.what is Managed and un managed disks
+9.Standard and premium disk diff.
+10.Ci/cd pipeline
+11.A.D
+12.Docker-- Docker inspect--how to run docker container--how to run docker perticular port.
+13.Vm connecting problems
+14.what is Nsg
+15.what is Internal and external load balancer
+16.Terraform
+17.How to troubleshoot High cpu trouble-shooting in linux
+ 
+---------------------------------------------------------------------------------------
+HCL INTERVIEW 
+---------------------------------------------------------------------------------------
+
+1.what is fault domain and update domains?
+2.what is asr?
+3.snapshot of vm? why we need to take snapshot?
+4.how to connect onprem to azure?
+5.how to troubleshoot vm login problem?
+6.what is bastian?
+7.what is daily issues u do?
+8.what is public and private network in azure?
+9.how u define it is pulic r private vm?
+10.How do I move Azure resources from one region to another?
+11.diff b/w load balancers and application gateway?
+12.what is virtual network gateway?
+13.what is diff b/w v1 and v2? storage types?
+14.how to monitoring vm
+15.state the purpose of cloud configuration file?
+16.verbose and minimal monitoring?
+
+
+1.wha is resource group?
+2.how to connect vm without public ip?
+3.difference between NSG & ASG?
+4.How to connect one vm with another vm with in subnet ?
+
+
+
+
+
